@@ -5,11 +5,11 @@ Instructor Profile : <a href="https://mshahidashraf.github.io/" style=" word-wra
 
 | Week         | Contents/Topics | CLO | Exercises/Questions |
 |--------------|--------------|:-----:|-----------:|
-|1|Partial Derivatives:Introduction, Functions of Two or More Variables,Domain and its sketching, Level Curves and LevelSurfaces|13.1|2|1-8,17-20,23-28,43-44,51-64|
-| 2 | Limits and ContinuityLimit Along Curves, open and closed sets, continuity, Limits at discontinuities, Limits by converting into polar coordinates, introduction of partial derivatives | 13.2,13.3 | 2 | 1-26,34, 35, 38-401-14,17,18,25-50 |
-| 3 | Partial derivatives of functions of two or more variables, partial derivative function and notations, PD as rate of changes/slopes, PD from tabular data (applied problems), implicit PDs, PDs and continuity, Higher order PDs, Equality of second order mixed derivatives, | 13.3 | 2 | 57-65 ,69-100 |
-| 4 | Differentiability, Differentials, and Local Linear ApproximationThe Chain Rule for PDs with a tree diagram. | 13.413.5 | 2 | 9-26 ,33-401-14,17-36,41-48 |
-| 5 | Directional Derivatives and GradientsDirectional Derivatives, Gradients, Properties of gradients, Gradients are normal to level curves.Tangent Planes and Normal Vectors | 13.613.7 | 14 | 1-45,53-663-12 |
+|1|Partial Derivatives:Introduction, Functions of Two or More Variables,Domain and its sketching, Level Curves and LevelSurfaces|2|13.1,1-8,17-20,23-28,43-44,51-64|
+| 2 | Limits and ContinuityLimit Along Curves, open and closed sets, continuity, Limits at discontinuities, Limits by converting into polar coordinates, introduction of partial derivatives |  2 | 13.2,13.3 ,1-26,34, 35, 38-401-14,17,18,25-50 |
+| 3 | Partial derivatives of functions of two or more variables, partial derivative function and notations, PD as rate of changes/slopes, PD from tabular data (applied problems), implicit PDs, PDs and continuity, Higher order PDs, Equality of second order mixed derivatives, |  2 | 13.3 ,57-65 ,69-100 |
+| 4 | Differentiability, Differentials, and Local Linear ApproximationThe Chain Rule for PDs with a tree diagram. |  2 | 13.4,13.5 ,9-26 ,33-401-14,17-36,41-48 |
+| 5 | Directional Derivatives and GradientsDirectional Derivatives, Gradients, Properties of gradients, Gradients are normal to level curves.Tangent Planes and Normal Vectors |  14 | 13.6,13.7, 1-45,53-663-12 |
 | 6 | MIDTERM 1 |  |  |  |
 | 7 | Extreme value of the function of two variables.Absolute & Relative Extrema, Extreme Value theorem, The second order Partials testLagrange Multipliers MethodLeast Square and Convex Optimization problems (Material will be provided) | 13.813.9 | 34 | 1,2,9-185-12 |
 | 8 | Gradient Descent Algorithm (Material will be provided)Multiple Integral:Double Integrals, Fubini’s theorem | 14.1 | 2 | 1-16 |
